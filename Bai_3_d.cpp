@@ -4,7 +4,7 @@
 using namespace std;
 
 float fx(float x){
-    return (x*cos(x)*x - 2*x*x +3*x -1);
+    return (x*cos(x) - 2*x*x +3*x -1);
 }
 float giaipt(float a, float b);
 
